@@ -1,0 +1,84 @@
+6345 1121
+Tender Juicy hotdog
+frozen foods
+ha
+4 38.75
+
+9011 1121
+Nescafe creamer
+beverages
+creamy
+4 14.50
+
+5678 1318
+Eden Chizweez
+dairy
+cheesy
+10 32.00
+
+309 1318
+Yakult
+beverages
+everyday okay
+0 22.20
+
+7777 1318
+Sari Roti bread
+bread
+fluffy
+3 48.50
+
+4464 1318
+Spring H2O
+beverages
+refreshing
+75 20.00
+
+3476 1362
+raisins
+dry goods
+sun dried
+47 16.50
+
+4523 1362
+Nike Ultraboost
+apparel
+trend af
+57 20000.00
+
+8869 1362
+flour
+dry goods
+sun and sun
+2 56.60
+
+4455 1362
+crop top
+apparel
+qt in u
+2 250.00
+
+4888 5555
+Maling
+canned goods
+tamang akala
+15 27.55
+
+3313 5555
+Ligo sardines
+canned goods
+fishy
+25 21.75
+
+8888 5555
+Vienna sausage
+canned goods
+not tender
+15 42.00
+
+4534 5555
+corned beef
+canned goods
+pure and foods
+15 48.50
+
